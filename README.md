@@ -1,4 +1,4 @@
-ECommerce-Api-Assignment README
+ECommerce-API-Assignment
 
 Table of Contents:
 - Customer Management
